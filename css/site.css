@@ -113,16 +113,16 @@ nav, footer{
        }
     .subTitle{
         font-family: var(--subtitle-font);
-        font-size: .6em;
+        font-size: .85em;
         font-weight: 100;
-        line-height: 1rem;
+        line-height: 0.5rem;
         letter-spacing: .01rem;
     }
     .title{
         font-family: var(--title-font);
-        font-size: .6em;
+        font-size: 2em;
         font-weight: 100;
-        line-height: 1rem;
+        line-height: 1.2rem;
         letter-spacing: .01rem;
     }
 }
@@ -132,17 +132,17 @@ nav, footer{
    }
     .subTitle{
         font-family: var(--subtitle-font);
-        font-size: .6em;
+        font-size: 1.8em;
         font-weight: 100;
-        line-height: 1rem;
+        line-height: 1.1rem;
         letter-spacing: .01rem;
     }
     .title{
         font-family: var(--title-font);
-        font-size: .6em;
+        font-size: 3em;
         font-weight: 100;
-        line-height: 1rem;
-        letter-spacing: .01rem;
+        line-height: 2rem;
+        letter-spacing: .7rem;
     } 
 }
 @media (min-width: 1399.98px) {
